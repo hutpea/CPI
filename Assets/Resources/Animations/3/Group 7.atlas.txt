@@ -1,0 +1,20 @@
+
+Group 7.png
+size: 571,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/Group 1 copy 3
+  rotate: false
+  xy: 4, 296
+  size: 563, 365
+  orig: 563, 365
+  offset: 0, 0
+  index: -1
+png/Vector Smart Object
+  rotate: false
+  xy: 4, 4
+  size: 563, 288
+  orig: 563, 288
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "/f/Photoshop/CPI/Level1/anim/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 4", "bone": "root", "attachment": "Layer 4" },
+	{ "name": "Layer 3", "bone": "root", "attachment": "Layer 3" },
+	{ "name": "Shape 3", "bone": "root", "attachment": "Shape 3" },
+	{ "name": "Vector Smart Object", "bone": "root", "attachment": "Vector Smart Object" }
+],
+"skins": {
+	"default": {
+		"Layer 4": {
+			"Layer 4": { "x": 283.5, "y": -273.5, "width": 569, "height": 549 }
+		},
+		"Layer 3": {
+			"Layer 3": { "x": 514.5, "y": -487, "width": 159, "height": 88 }
+		},
+		"Shape 3": {
+			"Shape 3": { "x": 411, "y": -478.5, "width": 308, "height": 141 }
+		},
+		"Vector Smart Object": {
+			"Vector Smart Object": { "x": 593, "y": -474, "width": 150, "height": 150 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

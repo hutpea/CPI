@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "/f/Photoshop/CPI/Level7/png/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Group 3", "bone": "root", "attachment": "Group 3" },
+	{ "name": "Group 2", "bone": "root", "attachment": "Group 2" },
+	{ "name": "Group 1", "bone": "root", "attachment": "Group 1" }
+],
+"skins": {
+	"default": {
+		"Group 3": {
+			"Group 3": { "x": 194, "y": -392.5, "width": 390, "height": 603 }
+		},
+		"Group 2": {
+			"Group 2": { "x": 294.5, "y": -307, "width": 247, "height": 138 }
+		},
+		"Group 1": {
+			"Group 1": { "x": 235, "y": -119, "width": 412, "height": 240 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

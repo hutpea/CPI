@@ -1,0 +1,41 @@
+
+Group 3 copy 3.png
+size: 816,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2 copy
+  rotate: true
+  xy: 4, 28
+  size: 303, 300
+  orig: 303, 300
+  offset: 0, 0
+  index: -1
+Group 2 copy 2
+  rotate: false
+  xy: 578, 4
+  size: 119, 60
+  orig: 119, 60
+  offset: 0, 0
+  index: -1
+Group 2 copy 3
+  rotate: true
+  xy: 772, 212
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 308, 8
+  size: 323, 266
+  orig: 323, 266
+  offset: 0, 0
+  index: -1
+Vector Smart Object2
+  rotate: false
+  xy: 578, 68
+  size: 190, 263
+  orig: 190, 263
+  offset: 0, 0
+  index: -1

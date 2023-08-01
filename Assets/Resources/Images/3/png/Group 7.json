@@ -1,0 +1,20 @@
+{ "skeleton": { "images": "/f/Photoshop/CPI/Level3/anim/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Group 1 copy 3", "bone": "root", "attachment": "Group 1 copy 3" },
+	{ "name": "Vector Smart Object", "bone": "root", "attachment": "Vector Smart Object" }
+],
+"skins": {
+	"default": {
+		"Group 1 copy 3": {
+			"Group 1 copy 3": { "x": 288.5, "y": -254.5, "width": 563, "height": 365 }
+		},
+		"Vector Smart Object": {
+			"Vector Smart Object": { "x": 280.5, "y": -143, "width": 563, "height": 288 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

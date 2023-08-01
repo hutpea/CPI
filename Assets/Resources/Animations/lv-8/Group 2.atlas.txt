@@ -1,0 +1,27 @@
+
+Group 2.png
+size: 612,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3 copy 2
+  rotate: true
+  xy: 2, 249
+  size: 364, 514
+  orig: 364, 514
+  offset: 0, 0
+  index: -1
+ao
+  rotate: false
+  xy: 2, 2
+  size: 433, 245
+  orig: 433, 245
+  offset: 0, 0
+  index: -1
+aotrong
+  rotate: false
+  xy: 437, 17
+  size: 170, 230
+  orig: 170, 230
+  offset: 0, 0
+  index: -1

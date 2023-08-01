@@ -1,0 +1,20 @@
+
+Group 2 copy.png
+size: 1012,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/Layer 10
+  rotate: true
+  xy: 4, 4
+  size: 477, 585
+  orig: 477, 585
+  offset: 0, 0
+  index: -1
+png/Vector Smart Object copy 2
+  rotate: false
+  xy: 593, 31
+  size: 415, 450
+  orig: 415, 450
+  offset: 0, 0
+  index: -1

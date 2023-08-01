@@ -1,0 +1,20 @@
+{ "skeleton": { "images": "/f/Photoshop/CPI/Level4/png/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Vector Smart Object copy 2", "bone": "root", "attachment": "Vector Smart Object copy 2" },
+	{ "name": "Layer 10", "bone": "root", "attachment": "Layer 10" }
+],
+"skins": {
+	"default": {
+		"Vector Smart Object copy 2": {
+			"Vector Smart Object copy 2": { "x": 221.5, "y": -459, "width": 415, "height": 450 }
+		},
+		"Layer 10": {
+			"Layer 10": { "x": 237.5, "y": -291.5, "width": 477, "height": 585 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

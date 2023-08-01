@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "/g/.shortcut-targets-by-id/1nrPx_QPTf7hl9gPt2YhmKtXgDNFYf1tL/[PUZZLE] CPI CONNECT PUZZLE IMAGE/2D ASSET/LV51/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 9", "bone": "root", "attachment": "Layer 9" },
+	{ "name": "Group 1 copy", "bone": "root", "attachment": "Group 1 copy" },
+	{ "name": "Layer 11", "bone": "root", "attachment": "Layer 11" },
+	{ "name": "bóng", "bone": "root", "attachment": "bóng" },
+	{ "name": "Layer 4", "bone": "root", "attachment": "Layer 4" },
+	{ "name": "Group", "bone": "root", "attachment": "Group" },
+	{ "name": "effect", "bone": "root", "attachment": "effect" }
+],
+"skins": {
+	"default": {
+		"Layer 9": {
+			"Layer 9": { "x": 540, "y": -960, "width": 1082, "height": 1922 }
+		},
+		"Group 1 copy": {
+			"Group 1 copy": { "x": 539.5, "y": -696.5, "width": 633, "height": 529 }
+		},
+		"Layer 11": {
+			"Layer 11": { "x": 539, "y": -857.5, "width": 572, "height": 207 }
+		},
+		"bóng": {
+			"bóng": { "x": 539.5, "y": -616, "width": 633, "height": 368 }
+		},
+		"Layer 4": {
+			"Layer 4": { "x": 537, "y": -752, "width": 222, "height": 218 }
+		},
+		"Group": {
+			"Group": { "x": 539, "y": -838.5, "width": 226, "height": 69 }
+		},
+		"effect": {
+			"effect": { "x": 530, "y": -557.5, "width": 586, "height": 455 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

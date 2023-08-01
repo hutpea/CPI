@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "/f/Photoshop/CPI/Level5/png/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 5", "bone": "root", "attachment": "Layer 5" },
+	{ "name": "Layer 4", "bone": "root", "attachment": "Layer 4" },
+	{ "name": "Vector Smart Object", "bone": "root", "attachment": "Vector Smart Object" }
+],
+"skins": {
+	"default": {
+		"Layer 5": {
+			"Layer 5": { "x": 497, "y": -382.5, "width": 390, "height": 401 }
+		},
+		"Layer 4": {
+			"Layer 4": { "x": 186.5, "y": -226.5, "width": 375, "height": 455 }
+		},
+		"Vector Smart Object": {
+			"Vector Smart Object": { "x": 339.5, "y": -273, "width": 207, "height": 182 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

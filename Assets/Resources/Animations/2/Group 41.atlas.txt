@@ -1,0 +1,20 @@
+
+Group 41.png
+size: 983,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 5 copy
+  rotate: false
+  xy: 4, 4
+  size: 855, 466
+  orig: 855, 466
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 863, 354
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1

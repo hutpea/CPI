@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "/f/Photoshop/CPI/Level6/png/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Vector Smart Object2", "bone": "root", "attachment": "Vector Smart Object2" },
+	{ "name": "Vector Smart Object", "bone": "root", "attachment": "Vector Smart Object" },
+	{ "name": "Group 2 copy", "bone": "root", "attachment": "Group 2 copy" },
+	{ "name": "Group 2 copy 2", "bone": "root", "attachment": "Group 2 copy 2" },
+	{ "name": "Group 2 copy 3", "bone": "root", "attachment": "Group 2 copy 3" }
+],
+"skins": {
+	"default": {
+		"Vector Smart Object2": {
+			"Vector Smart Object2": { "x": 166, "y": -352.5, "width": 190, "height": 263 }
+		},
+		"Vector Smart Object": {
+			"Vector Smart Object": { "x": 160.5, "y": -585, "width": 323, "height": 266 }
+		},
+		"Group 2 copy": {
+			"Group 2 copy": { "x": 160.5, "y": -149, "width": 303, "height": 300 }
+		},
+		"Group 2 copy 2": {
+			"Group 2 copy 2": { "x": 160.5, "y": -150, "width": 119, "height": 60 }
+		},
+		"Group 2 copy 3": {
+			"Group 2 copy 3": { "x": 160.5, "y": -160, "width": 119, "height": 40 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

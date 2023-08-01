@@ -1,0 +1,96 @@
+{
+    "pieceData": [
+        {
+            "pieceID": 1,
+            "elementType": 1,
+            "imageData": [
+                {
+                    "imageID": "Vector Smart Object copy",
+                    "sortingLayer": 1,
+                    "puzzleLayer": 1,
+                    "anchorPosition": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "sizeDelta": {
+                        "x": 667.0,
+                        "y": 548.0
+                    }
+                }
+            ],
+            "anchorPosition": {
+                "x": 109601.0,
+                "y": 227267.03125
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "successConnectEffect": 0
+        },
+        {
+            "pieceID": 2,
+            "elementType": 0,
+            "imageData": [
+                {
+                    "imageID": "Vector Smart Object1 copy",
+                    "sortingLayer": 2,
+                    "puzzleLayer": 1,
+                    "anchorPosition": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "sizeDelta": {
+                        "x": 667.0,
+                        "y": 548.0
+                    }
+                }
+            ],
+            "anchorPosition": {
+                "x": 102305.0,
+                "y": 227267.03125
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "successConnectEffect": 0
+        },
+        {
+            "pieceID": 3,
+            "elementType": 0,
+            "imageData": [
+                {
+                    "imageID": "Vector Smart Object",
+                    "sortingLayer": 3,
+                    "puzzleLayer": 1,
+                    "anchorPosition": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "sizeDelta": {
+                        "x": 148.0,
+                        "y": 148.0
+                    }
+                }
+            ],
+            "anchorPosition": {
+                "x": 159252.1875,
+                "y": 188790.21875
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "successConnectEffect": 0
+        }
+    ],
+    "pieceTargetPositionDatas": [],
+    "hiddenPieceData": [],
+    "replacePieceData": [],
+    "deletePieceData": [],
+    "animSpawnLocation": {
+        "x": -29.296092987060548,
+        "y": 86.33906555175781
+    }
+}

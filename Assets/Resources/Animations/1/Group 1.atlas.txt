@@ -1,0 +1,34 @@
+
+Group 1.png
+size: 720,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/Layer 3
+  rotate: false
+  xy: 557, 19
+  size: 159, 88
+  orig: 159, 88
+  offset: 0, 0
+  index: -1
+png/Layer 4
+  rotate: true
+  xy: 4, 4
+  size: 569, 549
+  orig: 569, 549
+  offset: 0, 0
+  index: -1
+png/Shape 3
+  rotate: true
+  xy: 557, 265
+  size: 308, 141
+  orig: 308, 141
+  offset: 0, 0
+  index: -1
+png/Vector Smart Object
+  rotate: false
+  xy: 557, 111
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

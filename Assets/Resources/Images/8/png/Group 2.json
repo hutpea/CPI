@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "/f/Photoshop/CPI/Level8/png/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "aotrong", "bone": "root", "attachment": "aotrong" },
+	{ "name": "Layer 3 copy 2", "bone": "root", "attachment": "Layer 3 copy 2" },
+	{ "name": "ao", "bone": "root", "attachment": "ao" }
+],
+"skins": {
+	"default": {
+		"aotrong": {
+			"aotrong": { "x": 267, "y": -399.5, "width": 212, "height": 287 }
+		},
+		"Layer 3 copy 2": {
+			"Layer 3 copy 2": { "x": 268.5, "y": -320, "width": 455, "height": 642 }
+		},
+		"ao": {
+			"ao": { "x": 269.5, "y": -414, "width": 541, "height": 306 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

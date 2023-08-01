@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1564576410",
+    "project_id": "bird-sort-color",
+    "storage_bucket": "bird-sort-color.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1564576410:android:4866a4bb722c78e64f6d23",
+        "android_client_info": {
+          "package_name": "com.globalplay.birdsort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1564576410-mse2vbpupmbece89d3ktt5l134ttk9fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH6eTZr5wA_PXMF6GxRh2mpB6i26MvF10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1564576410-mse2vbpupmbece89d3ktt5l134ttk9fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

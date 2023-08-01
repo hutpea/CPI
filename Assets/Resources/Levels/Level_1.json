@@ -1,0 +1,127 @@
+{
+    "pieceData": [
+        {
+            "pieceID": 1,
+            "elementType": 1,
+            "imageData": [
+                {
+                    "imageID": "Vector Smart Object copy",
+                    "sortingLayer": 1,
+                    "puzzleLayer": 1,
+                    "anchorPosition": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "sizeDelta": {
+                        "x": 667.0,
+                        "y": 548.0
+                    }
+                }
+            ],
+            "anchorPosition": {
+                "x": 35.0,
+                "y": 269.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "successConnectEffect": 0
+        },
+        {
+            "pieceID": 2,
+            "elementType": 0,
+            "imageData": [
+                {
+                    "imageID": "Vector Smart Object1 copy",
+                    "sortingLayer": 2,
+                    "puzzleLayer": 1,
+                    "anchorPosition": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "sizeDelta": {
+                        "x": 667.0,
+                        "y": 548.0
+                    }
+                }
+            ],
+            "anchorPosition": {
+                "x": -206.0,
+                "y": -357.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "successConnectEffect": 0
+        },
+        {
+            "pieceID": 3,
+            "elementType": 0,
+            "imageData": [
+                {
+                    "imageID": "Vector Smart Object",
+                    "sortingLayer": 3,
+                    "puzzleLayer": 1,
+                    "anchorPosition": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "sizeDelta": {
+                        "x": 148.0,
+                        "y": 148.0
+                    }
+                }
+            ],
+            "anchorPosition": {
+                "x": 323.0,
+                "y": -442.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "successConnectEffect": 0
+        }
+    ],
+    "pieceTargetPositionDatas": [
+        {
+            "positionIDs": [
+                1
+            ],
+            "anchorPosition": {
+                "x": 35.0,
+                "y": 269.0
+            },
+            "hasPieceIn": false
+        },
+        {
+            "positionIDs": [
+                2
+            ],
+            "anchorPosition": {
+                "x": -1.0,
+                "y": 268.1000061035156
+            },
+            "hasPieceIn": false
+        },
+        {
+            "positionIDs": [
+                3
+            ],
+            "anchorPosition": {
+                "x": 294.20001220703127,
+                "y": 68.80000305175781
+            },
+            "hasPieceIn": false
+        }
+    ],
+    "hiddenPieceData": [],
+    "replacePieceData": [],
+    "deletePieceData": [],
+    "animSpawnLocation": {
+        "x": -29.296092987060548,
+        "y": 134.3390655517578
+    }
+}
